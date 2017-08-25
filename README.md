@@ -3,12 +3,13 @@
 * `n` number pad
 * `r` number row
 * `em` edit mode
+
 #### Navigation
 
 * `middle + wheel` zoom in / out
 * `middle + move` move scene
 * `shift + middle + move` move focus center
-* `n .` back to origin view 
+* `n .` back to origin view
 * `n 5` toggle orthographic projection
 * `n 1` front
 * `ctrl + n 1` back
@@ -49,7 +50,7 @@
 * `left click` select a position
 * `shift + a` select and add a primitive to selected position
 
-#### Layers & Mes Visibility
+#### Layers & Mesh Visibility
 
 * `h` hide select object
 * `alt + h` show all hided objects in that layer
@@ -57,6 +58,7 @@
 * `r number` switch to numbered layer
 * `shift + r number` toggle the numbered layer
 * `alt + r number` the second row layer
+* `shift + s` snap panel, can snap Cursor and selected part
 
 #### Object & Edit Mode
 
@@ -71,5 +73,9 @@
 * `em + alt + right click` select edge loops
 * `em + w + b` bevel edges
 * `em + k` knife tool, left click / drag to clip, enter to finish.
+* `em + shift + d` duplicate selected
+* `em + l` select linked points
+* `em + p` separate object
+* `ctrl + alt + shift + c` set Origin
 
 
