@@ -66,16 +66,22 @@
 * `em + ctrl + tab` choose mesh select mode
 * `ctrl + r number` subdivision select object
 * `em + e` extrude select part, right click will not delete new part, can select and transform the new part.
+* `em + i` inset
 * `em + ctrl + left click` extrude select part
 * `em + e + d` extrude freely
 * `em + e + d + x / y / z` extrude along axis
-* `em + face + ctrl + r` slice face
+* `em + ctrl + r` slice face
 * `em + alt + right click` select edge loops
 * `em + w + b` bevel edges
 * `em + k` knife tool, left click / drag to clip, enter to finish.
 * `em + shift + d` duplicate selected
 * `em + l` select linked points
 * `em + p` separate object
+* `em + f` connect vertexes
 * `ctrl + alt + shift + c` set Origin
+
+#### Render
+`j` change render slot
+`shift + z` toggle render mode
 
 
