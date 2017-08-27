@@ -59,6 +59,9 @@
 * `shift + r number` toggle the numbered layer
 * `alt + r number` the second row layer
 * `shift + s` snap panel, can snap Cursor and selected part
+* `ctrl + a` apply panel
+* `ctrl + g` group objects
+* `ctrl + l` links, share stuff
 
 #### Object & Edit Mode
 
@@ -77,11 +80,14 @@
 * `em + shift + d` duplicate selected
 * `em + l` select linked points
 * `em + p` separate object
+* `ctrl + j` connect objects
 * `em + f` connect vertexes
+* `em + u` uv mapping
 * `ctrl + alt + shift + c` set Origin
+* `em + ctrl + e` edge panel
 
 #### Render
-`j` change render slot
-`shift + z` toggle render mode
+* `j` change render slot
+* `shift + z` toggle render mode
 
 
